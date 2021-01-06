@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import App from './App';
 
 class CommentForm extends Component {
     render() {
@@ -16,4 +15,4 @@ class CommentForm extends Component {
     }
 }
 
-export default App;
+export default CommentForm;
