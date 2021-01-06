@@ -1,7 +1,10 @@
+import React, { Component } from 'react';
+import CommentForm from 'CommentForm'
+
 function App() {
   return (
     <div className="App">
-      <h1>Panyapol</h1>
+      <CommentForm>
     </div>
   );
 }
